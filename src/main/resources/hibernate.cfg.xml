@@ -10,5 +10,8 @@
         <property name="connection.password">NadijA270</property>
         <property name="connection.driver_class">com.mysql.jdbc.Driver</property>
         <property name="show_sql">true</property>
+        <mapping class="entity.Game"/>
+        <mapping class="entity.Publisher"/>
+        <mapping class="entity.RuleSystem"/>
     </session-factory>
 </hibernate-configuration>
