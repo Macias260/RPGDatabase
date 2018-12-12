@@ -1,4 +1,4 @@
-package entity.service;
+package service;
 
 public abstract class BaseService {
 }
